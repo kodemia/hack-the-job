@@ -67,9 +67,9 @@ La oferta económica cuenta con una base de **$30, 000.00 MXN mensuales netos (m
 
 # El Reto
 
-1. Tendrás que consumir el API de GitHub para obtener los repositorios de un usuario de github conforme al wireframe
+1. Tendrás que consumir el API de GitHub
 2. Realizar el maquetado funcional del siguiente wireframe:  https://preview.uxpin.com/ef2dcc9a1dd957ed3d5f93e346c9d91edd061eb3#/pages/114086816/simulate/no-panels?mode=i
-3. Puedes utilizar Bootstrap, Materialize o Foundation, con el que mayor experiencia tengas y por supuesto
+3. Puedes utilizar Bootstrap, Materialize o Foundation, con el que mayor experiencia tengas y Angular por supuesto
 4. Envíanos tu reto, nos comunicamos contigo y nos vemos el 13 de Julio ;)
  
 ## Notas
