@@ -6,13 +6,13 @@
   <img src='img/hack-the-job-smart-lending.png' height='300' align='center'>
 </p>
 
-# Convocatoria: Front-End Developer AngularJs
+# Convocatoria: Front-End Developer
 
 ### **Si buscas retos y no sólo un trabajo ¡esto es para ti!**
 
 Participa en la nueva convocatoria para el siguiente **Hack de Job by Kodemia y SmartLending**.
 
-Si consideras que eres todo un Front-End con Angular te invitamos a participar en esta nueva edición de Hack de Job para una de la empresa que está llevando la industria hipotecaria al futuro. **Smart Lending**, una nueva hipotecaria digital, transparente, rápida, flexible con la idea de sumar a su equipo talento mexicano y se encuentran en busca de Devs AngularJS Sr.
+Si consideras que eres todo un Front-End con Angular te invitamos a participar en esta nueva edición de Hack de Job para una de la empresa que está llevando la industria hipotecaria al futuro. **Smart Lending**, una nueva hipotecaria digital, transparente, rápida, flexible con la idea de sumar a su equipo talento mexicano y se encuentran en busca de Devs Sr.
 
 Lo mejor de este evento es que se lleva a cabo en un solo día, podrás platicar directamente con los líderes y fundadores de la empresa para conocer a detalle las tecnologías con que trabajan su visión de crecimiento.
 
@@ -69,7 +69,7 @@ La oferta económica cuenta con una base de **$30, 000.00 MXN mensuales netos (m
 
 1. Tendrás que consumir el API de GitHub
 2. Realizar el maquetado funcional del siguiente wireframe:  https://preview.uxpin.com/ef2dcc9a1dd957ed3d5f93e346c9d91edd061eb3#/pages/114086816/simulate/no-panels?mode=i
-3. Puedes utilizar Bootstrap, Materialize o Foundation, con el que mayor experiencia tengas y AngularJS por supuesto
+3. Puedes utilizar Bootstrap, Materialize o Foundation, con el que mayor experiencia tengas y por supuesto
 4. Envíanos tu reto, nos comunicamos contigo y nos vemos el 13 de Julio ;)
  
 ## Notas
