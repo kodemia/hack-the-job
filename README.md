@@ -33,7 +33,7 @@ Además, en SmartLending se cuenta con un excelente ambiente de trabajo, puedes 
 * UX/UI
 * Estructuración de código
 * Mobile First Design
-* 4 años de experiencia (recomendada pero se evaluara el tiempo y cálidad del proyecto)
+* 4 años de experiencia (recomendada pero se evaluara el tiempo y calidad del proyecto)
  
 ## **Tus habilidades soft:**
 
@@ -53,8 +53,6 @@ Además, en SmartLending se cuenta con un excelente ambiente de trabajo, puedes 
 Buscamos atraer, desarrollar y retener a gente joven y excepcional donde serás parte de los logros y crecimiento de la empresa.
 
 Tu lugar de trabajo será un lugar en donde surgen las ideas y muy céntrico. **El horario es de 9:00 a 6:00pm** pero flexibles ya que lo importante es cumplir con los objetivos.
-
-La oferta económica cuenta con una base de **$30, 000.00 MXN mensuales netos (muy negociables)** y se te hara una oferta final acorde a tus conocimientos y experiencia además de las prestaciones de ley.
 
 ## ¿Que tengo que hacer?
 
