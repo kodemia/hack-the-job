@@ -63,8 +63,8 @@ Tu lugar de trabajo será un lugar en donde surgen las ideas y muy céntrico. **
     * Curriculum Vitae
     * Teléfono de contacto
     * Cuéntanos un poco por qué te gustaría pertenecer al equipo de SmartLending
-4. Tienes hasta el **miercoles 24 de julio a las 23:59 para enviar el email**
-5. **Hack the job se llevará a cabo en nuestras oficinas en la colonia Roma el día sábado 27 de Julio de 9:00 am a 6:00 pm.**
+4. Tienes hasta el **miercoles 31 de julio a las 14:00 para enviar el email**
+5. **Hack the job se llevará a cabo en nuestras oficinas en la colonia Roma el día sábado 31 de Julio de 19:00 hrs a 22:00 hrs.**
 
 Además habrá donas, pizza, café y cervezas ¡Nunca habías participado vivido un proceso de selección así!
 
